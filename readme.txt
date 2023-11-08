@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Factoring Calculator](https://www.calculator.io/factoring-calculator/ "Factoring Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_factoring_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Factoring Calculator to the sidebar through the `Appearance -> Widgets -> Factoring Calculator` menu in WordPress.
+* Add the shortcode `[ci_factoring_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_factoring_calculator(); ?>` to your template where you would like the Factoring Calculator to appear.
 
 == Screenshots ==

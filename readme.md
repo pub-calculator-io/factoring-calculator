@@ -12,9 +12,8 @@ The factoring calculator finds all factors and factor pairs of positive and nega
 3. Activate the [Factoring Calculator](https://www.calculator.io/factoring-calculator/ "Factoring Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_factoring_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Factoring Calculator to the sidebar through the `Appearance -> Widgets -> Factoring Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_factoring_calculator(); ?>` to your template where you would like the Factoring Calculator to appear.
+* Add the shortcode `[ci_factoring_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_factoring_calculator(); ?>` to your template where you would like the Factoring Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
