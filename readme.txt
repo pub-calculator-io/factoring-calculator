@@ -13,6 +13,8 @@ The factoring calculator finds all factors and factor pairs of positive and nega
 
 The factoring calculator finds all factors and factor pairs of positive and negative numbers. Factor calculator finds divisors of non-zero integers.
 
+[Factoring Calculator Homepage](https://www.calculator.io/factoring-calculator/ "Factoring Calculator Homepage")
+
 __Shortcode__
 
 Use the Factoring Calculator shortcode:
