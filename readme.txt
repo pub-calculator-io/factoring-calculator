@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 The factoring calculator finds all factors and factor pairs of positive and negative numbers. Factor calculator finds divisors of non-zero integers.
 
-== Description ==
-
-The factoring calculator finds all factors and factor pairs of positive and negative numbers. Factor calculator finds divisors of non-zero integers.
-
 [https://www.calculator.io/factoring-calculator/](https://www.calculator.io/factoring-calculator/)
 
-__Factoring Calculator Shortcode__
+== Usage ==
+
+Add the Factoring Calculator shortcode to your page, post or sidebar:
 
 `[ci_factoring_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Factoring Calculator to appear:
 
-1. Upload the /ci_factoring_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Factoring Calculator](https://www.calculator.io/factoring-calculator/ "Factoring Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Factoring Calculator Usage ==
-
-* Add the shortcode `[ci_factoring_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_factoring_calculator(); ?>` to your template where you would like the Factoring Calculator to appear.
+`<?php display_ci_factoring_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Factoring Calculator Input Form.
 2. The Factoring Calculator Calculation Results.
 
-== Libraries used in Factoring Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Factoring Calculator /ci_factoring_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Factoring Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Factoring Calculator
