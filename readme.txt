@@ -1,6 +1,6 @@
 === Factoring Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: factoring calculator, polynomial factorizer, solve quadratic equations, algebra calculator, factor polynomials online, math problem solver, greatest common factor tool, trinomial factor calculator, simplify expressions calculator, algebraic expression factoring
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
