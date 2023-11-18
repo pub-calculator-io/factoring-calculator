@@ -1,4 +1,4 @@
-# Factoring Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Factoring Calculator Widget for WordPress
 
 The factoring calculator finds all factors and factor pairs of positive and negative numbers. Factor calculator finds divisors of non-zero integers.
 
