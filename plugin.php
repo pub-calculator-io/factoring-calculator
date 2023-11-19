@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Factoring Calculator by www.calculator.io
+Plugin Name: CI Factoring calculator
 Plugin URI: https://www.calculator.io/factoring-calculator/
 Description: The factoring calculator finds all factors and factor pairs of positive and negative numbers. Factor calculator finds divisors of non-zero integers.
 Version: 1.0.0
