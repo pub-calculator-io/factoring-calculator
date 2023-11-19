@@ -1,4 +1,4 @@
-=== Factoring Calculator ===
+=== Factoring Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: factoring calculator, polynomial factorizer, solve quadratic equations, algebra calculator, factor polynomials online, math problem solver, greatest common factor tool, trinomial factor calculator, simplify expressions calculator, algebraic expression factoring
 Requires at least: 5.0
