@@ -32,7 +32,7 @@ function calculate(){
   const factorPairs = getFactorPairs(number).map(pair => `${pair[0]} × ${pair[1]} = ${number}`);
 
   // 3. output
-  _('factors_count').innerHTML = factors.length;  
+  _('factors_count').innerHTML = plural(factors.length, 'factors:factor:factors:factors:factors:factors');
   _('factors').innerHTML = factors.join(', ');  
   _('factor_pairs').innerHTML = factorPairs.join('<br>');
   

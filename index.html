@@ -43,13 +43,16 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
+                	<script type="text/javascript" src="./assets/js/lib/math.min.js" async></script>
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -64,8 +67,7 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col">
 	<div class="result-table__wrapper"> 
 		<table class="result-table">
@@ -74,13 +76,13 @@
 					<th class="dark indigo" colspan="2">Result</th>
 				</tr>
 			</thead>
-			<tbody>
+			<tbody class="animate">
 				<tr>
-					<th><span id="factors_count">10</span> factors</th>
+					<th><span id="factors_count">10 factors</span></th>
 					<td id="factors">1, 2, 3, 4, 6, 8, 12, 16, 24, 48</td>
 				</tr>
 				<tr>
-					<th class="baseline">Factor pairs</th>
+					<th class="baseline">Factor Pairs</th>
 					<td id="factor_pairs">
 						1 × 48 = 48<br>
 						2 × 24 = 48<br>

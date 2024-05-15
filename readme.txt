@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Factoring Calcu
 == Screenshots ==
 
 1. The Factoring Calculator Input Form.
-2. The Factoring Calculator Calculation Results.
 
 == Installation ==
 

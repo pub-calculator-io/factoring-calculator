@@ -3,7 +3,6 @@
 The factoring calculator finds all factors and factor pairs of positive and negative numbers. Factor calculator finds divisors of non-zero integers.
 
 ![Factoring Calculator Input Form](/assets/images/screenshot-1.png "Factoring Calculator Input Form")
-![Factoring Calculator Calculation Results](/assets/images/screenshot-2.png "Factoring Calculator Calculation Results")
 
 ## Installation
 
